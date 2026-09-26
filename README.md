@@ -18,3 +18,4 @@ Repository publik ini digunakan untuk melakukan trigger otomatis terhadap bebera
 
 > [!NOTE]
 > Sistem kalkulasi badge GitHub berjalan secara asynchronous di background server GitHub. Biasanya badge akan muncul di profil [github.com/akiratanaya](https://github.com/akiratanaya) dalam beberapa menit hingga beberapa jam setelah aktivitas tercatat.
+<!-- test coauthor -->
